@@ -9,4 +9,7 @@
 
 =======
 ## 도메인
-- https://devu.site
+- https://devu.site(현재는 지원되지 않습니다)
+
+## 시연 영상
+https://www.youtube.com/watch?v=S9mMeduJZ28
